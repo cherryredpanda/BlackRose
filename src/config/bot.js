@@ -93,14 +93,14 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
-      secondary: "#2F3136",
+      primary: "#630000",
+      secondary: "#3B0B00",
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287",
-      error: "#ED4245",
-      warning: "#FEE75C",
-      info: "#3498DB",
+      success: "#51C25C",
+      error: "#B53E3E",
+      warning: "#F08C26",
+      info: "#F08C26",
 
       // Neutral utility colors.
       light: "#FFFFFF",
@@ -121,10 +121,10 @@ export const botConfig = {
         ended: "#ED4245",
       },
       ticket: {
-        open: "#57F287",
-        claimed: "#FAA61A",
-        closed: "#ED4245",
-        pending: "#99AAB5",
+        open: "#AB0000",
+        claimed: "#C28244",
+        closed: "#FFB8B8",
+        pending: "#53668C",
       },
       economy: "#F1C40F",
       birthday: "#E91E63",
